@@ -40,8 +40,8 @@
       				<artifactId>maven-compiler-plugin</artifactId>
       				<version>3.8.1</version> <!-- Java 17을 지원하는 버전 사용 -->
       				<configuration>
-        				<source>17</source>
-        				<target>17</target>
+        				<source>1.8</source>
+        				<target>1.8</target>
       				</configuration>
     			</plugin>
 		</plugins>
