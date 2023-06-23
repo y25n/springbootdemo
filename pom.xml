@@ -38,7 +38,7 @@
 			<plugin>
       				<groupId>org.apache.maven.plugins</groupId>
       				<artifactId>maven-compiler-plugin</artifactId>
-      				<version>3.8.0</version> <!-- Java 11을 지원하는 버전 사용 -->
+      				<version>3.8.1</version> <!-- Java 11을 지원하는 버전 사용 -->
       				<configuration>
         				<source>11</source>
         				<target>11</target>
